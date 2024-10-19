@@ -17,3 +17,5 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lidia-mariaa&bg_color=0d1117&color=f4cd7c&line=6c604b&point=f4cd7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cd7c&height=120&section=footer"/>
