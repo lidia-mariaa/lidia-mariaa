@@ -1,4 +1,7 @@
 ## olá, sou lidiaa! ✨
+[![Instagram](https://img.shields.io/badge/Instagram-4D5E7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lidiaamaria/)
+[![Gmail](https://img.shields.io/badge/Gmail-4D5E7B?style=for-the-badge&logo=gmail&logoColor=white)](lidia.maria.lucas.lopes@gmail.com)
+#
 - 🌻 Estou começando na programação agora!
 - 🌱 No momento estou aprendendo python
 - 📫 Seja bem vindo ao meu perfil!!
