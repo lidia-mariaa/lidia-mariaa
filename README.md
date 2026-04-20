@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-1f2430?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidia.maria.lucas.lopes@gmail.com)
 #
 - 🌻 Estou começando na programação agora!
-- 🌱 No momento estou aprendendo **python**   <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 🌱 No momento estou aprendendo **python**, **java**, **html**, **css** e **javascript** <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - 📫 Seja bem vindo ao meu perfil!!
 #
 
